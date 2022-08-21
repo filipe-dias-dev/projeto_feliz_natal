@@ -1,27 +1,57 @@
 header {
     background-color: #f7c7b9 ;
+    font-family: 'Poppins', sans-serif;
 }
 
 .caixa {
-    width: 940px;
+    width: 1100px;
     position: relative;
     margin: 0 auto;
-    display: flex;
 }
 
-nav {
-    position: absolute;
-    top: 110px;
-    right: 110px;
+#logo {
+    padding-left: 5px;
+    padding-top: 30px;
 }
 
-nav li {
+li {
     display: inline-block;
     margin: 0 0 0 15px;
 }
 
 .logo-texto {
     position: relative;
-    left: 10px;
+    left: 50px;
+    bottom: 55px;
+    font-size: 20px;
 }
 
+nav {
+	position: absolute;
+	top: 10px;
+	right: 0px;
+}
+
+h1 {
+    width: 368px ;
+    font-size: 48px;
+    height: 104px;
+    left: 112px;
+    top: 178px;
+}
+
+.texto1{
+    position: absolute;
+    width: 444px;
+    height: 48px;
+    left: auto;
+    top: 256px; 
+}
+
+#imagem-send {
+    position: relative;
+    width: 600px;
+    height: 360px;
+    left: 500px;
+    bottom: 180px;
+}
