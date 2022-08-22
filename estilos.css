@@ -80,7 +80,7 @@ h2 {
     text-align: center;
     font-size: 48px;
     width: 266px;
-    left: 480px;
+    left: 750px;
     top: 684px;
 }
 
@@ -88,7 +88,7 @@ h2 {
     text-align: center;
     position: absolute;
     width: 399px;
-    left: 415px;
+    left: 690px;
     font-size: 16px;
     line-height: 24px;
     top: 788px;
@@ -97,7 +97,8 @@ h2 {
 .acessorios {
     width: auto;
 	margin: 0 auto;
-	padding: 260px 0 50px;  
+	padding: 260px 0 50px; 
+    text-align: center; 
 }
 
 .acessorios p {
@@ -120,21 +121,22 @@ h2 {
 }
 
 h3 {
-    text-align: center;
-    width: 200px;
+    text-align: right;
+    width: 180px;
     margin: 0;
 }
 
 .caixa2 {
     background-color: #f7c7b9;
-    padding-top: 80px ;
+    position: relative;
+    margin: 40px auto;
 }
 
 h4 {
     position: absolute;
     width: 488px;
-    left: 736px;
-    top: 1340px;
+    left: 1036px;
+    top: 10px;
     font-size: 48px;
 }
 
@@ -144,8 +146,8 @@ h4 {
     justify-content: center;
     padding: 12px 32px;
     width: 250px;
-    top: 1620px;
-    left: 736px;
+    top: 290px;
+    left: 1036px;
     background-color: #DA2535 ;
     color: white;
     border-radius: 10px;
@@ -154,14 +156,14 @@ h4 {
 
 .texto3 {
     position: absolute;
-    width: 457px;
+    width: 430px;
     height: 72px;
-    left: 736px;
-    top: 1520px;
+    left: 1036px;
+    top: 190px;
 }
 
 #shared {
-    position: relative;
-    left: 59px;
-    bottom: 30px;
+ position: relative;
+ left: 250px;   
 }
+
