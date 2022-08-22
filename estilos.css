@@ -55,3 +55,13 @@ h1 {
     left: 500px;
     bottom: 180px;
 }
+
+button {
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    padding: 12px 32px;
+    gap: 10px;
+    width: 250px;
+    top: 350px;
+}
