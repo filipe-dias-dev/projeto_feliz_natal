@@ -6,7 +6,7 @@ header {
     background-color: #f7c7b9 ;
 }
 
-.caixa {
+.caixa1 {
     width: 1100px;
     position: relative;
     margin:  auto;
@@ -36,11 +36,12 @@ nav {
 }
 
 h1 {
+    position: relative;
     width: 368px ;
     font-size: 48px;
     height: 104px;
-    left: 112px;
-    top: 178px;
+    top: 55px;
+    margin:  auto 0;
 }
 
 .texto1{
@@ -48,7 +49,8 @@ h1 {
     width: 444px;
     height: 48px;
     left: auto;
-    top: 256px; 
+    top: 310px; 
+    line-height: 24px;
 }
 
 #imagem-send {
@@ -56,22 +58,21 @@ h1 {
     width: 600px;
     height: 360px;
     left: 500px;
-    bottom: 180px;
+    bottom: 90px;
 }
 
-button {
+#botao1 {
     display: flex;
     position: absolute;
     justify-content: center;
     padding: 12px 32px;
     gap: 10px;
     width: 250px;
-    top: 350px;
+    top: 410px;
     background-color: #DA2535 ;
     color: white;
     border-radius: 10px;
-    border: none;
-    
+    border: none; 
 }
 
 h2 {
@@ -96,7 +97,7 @@ h2 {
 .acessorios {
     width: auto;
 	margin: 0 auto;
-	padding: 210px 0 50px;  
+	padding: 260px 0 50px;  
 }
 
 .acessorios p {
@@ -112,7 +113,6 @@ h2 {
 .acessorios img {
     width: 200px;
     top: 864px;
-    
 }
 
 .acessorios li {
@@ -123,4 +123,45 @@ h3 {
     text-align: center;
     width: 200px;
     margin: 0;
+}
+
+.caixa2 {
+    background-color: #f7c7b9;
+    padding-top: 80px ;
+}
+
+h4 {
+    position: absolute;
+    width: 488px;
+    left: 736px;
+    top: 1340px;
+    font-size: 48px;
+}
+
+#botao2 {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    padding: 12px 32px;
+    width: 250px;
+    top: 1620px;
+    left: 736px;
+    background-color: #DA2535 ;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+.texto3 {
+    position: absolute;
+    width: 457px;
+    height: 72px;
+    left: 736px;
+    top: 1520px;
+}
+
+#shared {
+    position: relative;
+    left: 59px;
+    bottom: 30px;
 }
