@@ -7,14 +7,14 @@ header {
 }
 
 .caixa1 {
-    width: 1100px;
+    width: 100%;
     position: relative;
     margin:  auto;
     padding-bottom: 80px;
 }
 
 #logo {
-    padding-left: 5px;
+    padding-left: 15px;
     padding-top: 30px;
 }
 
@@ -25,7 +25,7 @@ li {
 
 .logo-texto {
     position: relative;
-    left: 50px;
+    left: 60px;
     bottom: 30px;
     font-size: 20px;
 }
@@ -33,7 +33,7 @@ li {
 nav {
 	position: absolute;
 	top: 45px;
-	right: 20px;
+	right: 60px;
     line-height: 24px ;
     
 }
@@ -44,13 +44,14 @@ h1 {
     font-size: 48px;
     height: 104px;
     bottom: 280px;
+    left: 15px;
 }
 
 .texto1{
     position: absolute;
     width: 444px;
     height: 48px;
-    left: auto;
+    left: 15px;
     top: 310px; 
     line-height: 24px;
 }
@@ -59,7 +60,7 @@ h1 {
     position: relative;
     width: 600px;
     height: 360px;
-    left: 500px;
+    left: 560px;
     padding-top: 35px;
 }
 
@@ -68,13 +69,13 @@ h1 {
     position: absolute;
     justify-content: center;
     padding: 12px 32px;
-    gap: 10px;
     width: 250px;
     top: 380px;
     background-color: #DA2535 ;
     color: white;
     border-radius: 10px;
     border: none; 
+    left: 15px;
 }
 
 h2 {
@@ -82,8 +83,8 @@ h2 {
     text-align: center;
     font-size: 48px;
     width: 266px;
-    left: 750px;
-    top: 684px;
+    left: 470px;
+    top: 654px;
 }
 
 .texto2 {
@@ -91,17 +92,18 @@ h2 {
     position: absolute;
     display: flex;
     width: 399px;
-    left: 690px;
+    left: 390px;
     font-size: 16px;
     line-height: 24px;
-    top: 768px;
+    top: 728px;
 }
 
 .acessorios {
     width: auto;
 	margin: 0 auto;
-	padding: 280px 0 50px; 
+	padding: 220px 0 50px; 
     text-align: center; 
+    bottom: 220px;
 }
 
 .acessorios p {
@@ -120,26 +122,27 @@ h2 {
 }
 
 .acessorios li {
-    width: 280px;
+    width: 250px;
 }
 
 h3 {
     text-align: right;
-    width: 180px;
+    width: 161px;
     margin: 0;
 }
 
 .caixa2 {
     background-color: #f7c7b9;
     position: relative;
-    margin: 40px auto;
+    margin: 0 auto ;
+    width: auto;
 }
 
 h4 {
     position: absolute;
     justify-content: flex-end;
-    width: 468px;
-    left: 1036px;
+    width: 440px;
+    left: 630px;
     top: 70px;
     font-size: 48px;
 }
@@ -151,7 +154,7 @@ h4 {
     padding: 12px 32px;
     width: 250px;
     top: 290px;
-    left: 1036px;
+    left: 630px;
     background-color: #DA2535 ;
     color: white;
     border-radius: 10px;
@@ -162,12 +165,12 @@ h4 {
     position: absolute;
     width: 430px;
     height: 72px;
-    left: 1036px;
+    left: 630px;
     top: 190px;
 }
 
 #shared {
  position: relative;
- left: 250px;   
+ left: 60px;   
 }
 
