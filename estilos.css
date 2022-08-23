@@ -158,3 +158,14 @@ h4 {
    top: 2px;
 }
 
+.redes-sociais {
+    text-align: center;
+    margin: 50px 10px 0 ;
+    line-height: 20px;
+}
+
+.redes-sociais img {
+    padding-left: 30px;
+}
+
+
