@@ -23,13 +23,6 @@ li {
     margin: 0 0 0 15px;
 }
 
-.logo-texto {
-    position: relative;
-    left: 60px;
-    bottom: 30px;
-    font-size: 20px;
-}
-
 nav {
 	position: absolute;
 	top: 45px;
@@ -43,7 +36,7 @@ h1 {
     width: 368px ;
     font-size: 48px;
     height: 104px;
-    bottom: 280px;
+    bottom: 380px;
     left: 15px;
 }
 
@@ -52,7 +45,7 @@ h1 {
     width: 444px;
     height: 48px;
     left: 15px;
-    top: 310px; 
+    top: 210px; 
     line-height: 24px;
 }
 
@@ -61,7 +54,7 @@ h1 {
     width: 600px;
     height: 360px;
     left: 560px;
-    padding-top: 35px;
+    padding-top: 85px;
 }
 
 #botao1 {
@@ -70,7 +63,7 @@ h1 {
     justify-content: center;
     padding: 12px 32px;
     width: 250px;
-    top: 380px;
+    top: 300px;
     background-color: #DA2535 ;
     color: white;
     border-radius: 10px;
@@ -83,8 +76,8 @@ h2 {
     text-align: center;
     font-size: 48px;
     width: 266px;
-    left: 470px;
-    top: 654px;
+    left: 460px;
+    top: 524px;
 }
 
 .texto2 {
@@ -95,7 +88,7 @@ h2 {
     left: 390px;
     font-size: 16px;
     line-height: 24px;
-    top: 728px;
+    top: 598px;
 }
 
 .acessorios {
