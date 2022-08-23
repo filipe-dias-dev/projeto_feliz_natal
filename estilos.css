@@ -118,14 +118,15 @@ h3 {
     background-color: #f7c7b9;
     position: relative;
     width: 100%;
+    padding: 100px 0;
 }
 
 h4 {
-    position: absolute;
-    justify-content: flex-end;
+    position: relative;
+    display: flex;
     width: 100%;
-    top: 70px;
     font-size: 48px;
+    left: 35px;
 }
 
 #botao2 {
@@ -138,6 +139,8 @@ h4 {
     color: white;
     border-radius: 10px;
     border: none;
+    top: 10px;
+    left: 35px;
 }
 
 .texto3 {
@@ -145,11 +148,13 @@ h4 {
     position: relative;
     width: 100%;
     height: 72px;
-    top: 190px;
+    margin-top: 20px;
+    left: 35px;
 }
 
 #shared {
- position: relative;
- left: 60px;   
+   position: absolute;
+   left: 800px;
+   top: 2px;
 }
 
