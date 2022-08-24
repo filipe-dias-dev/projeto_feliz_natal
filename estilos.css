@@ -2,6 +2,10 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 
+header {
+    background-color: #f7c7b9;
+}
+
 li {
     display: inline-block;
     margin: 0 0 0 15px;
@@ -14,9 +18,8 @@ nav a {
 
 nav {
     position: absolute;
-    top: 45px;
     right: 100px;
-    line-height: 24px;
+    line-height: 74px;
 }
 
 .principal {
@@ -56,7 +59,7 @@ h1 {
     justify-content: center;
     padding: 12px 32px;
     width: 250px;
-    top: 340px;
+    top: 380px;
     background-color: #DA2535;
     color: white;
     border-radius: 10px;
