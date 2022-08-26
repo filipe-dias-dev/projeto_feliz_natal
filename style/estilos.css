@@ -29,27 +29,28 @@ nav {
 
 h1 {
     position: relative;
-    width: 100%;
+    width: 80%;
     font-size: 48px;
     height: 104px;
-    top: 150px;
-    left: 35px;
+    top: 120px;
+    padding-left: 35px;
+    
 }
 
 .texto1 {
     position: relative;
-    width: 100%;
+    width: 80%;
     height: 48px;
-    left: 35px;
-    top: 160px;
+    top: 130px;
     line-height: 24px;
+    padding-left: 35px;
 }
 
 #imagem-send {
     display: flex;
     position: relative;
     height: 360px;
-    left: 600px;
+    padding-left: 600px;
     bottom: 50px;
 }
 
@@ -59,7 +60,7 @@ h1 {
     justify-content: center;
     padding: 12px 32px;
     width: 250px;
-    top: 380px;
+    top: 320px;
     background-color: #DA2535;
     color: white;
     border-radius: 10px;
@@ -134,9 +135,9 @@ h3 {
 h4 {
     position: relative;
     display: flex;
-    width: 100%;
+    width: 20%;
     font-size: 48px;
-    left: 35px;
+    padding-left: 35px;
 }
 
 #botao2 {
@@ -150,6 +151,7 @@ h4 {
     border-radius: 10px;
     border: none;
     top: 20px;
+    margin: 0;
     left: 35px;
 }
 
@@ -163,10 +165,11 @@ h4 {
 .texto3 {
     display: flex;
     position: relative;
-    width: 100%;
+    width: 80%;
     height: 72px;
-    margin-top: 20px;
-    left: 35px;
+    padding-top: 15px;
+    padding-left: 35px;
+    
 }
 
 #shared {
