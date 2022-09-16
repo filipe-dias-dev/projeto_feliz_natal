@@ -55,3 +55,14 @@ button {
     padding-left: 60px;
     padding-bottom: 10px;
 }
+
+.redes-sociais {
+    text-align: center;
+    margin: 90px 0px 0px;
+    line-height: 20px;
+    background-color: antiquewhite;
+}
+
+.redes-sociais img {
+    padding-left: 30px;
+}
